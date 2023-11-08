@@ -3,4 +3,4 @@ def func(name):
 
 
 str = "charan"
-func(str)
+print(func(str))
